@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/layout_activity_entry_detail.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_entry_detail.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/layout_item_entry.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/layout/item_entry.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/layout_view_empty_state.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/layout/view_empty_state.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/menu_menu_list.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/menu/menu_list.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/layout_activity_entry_list.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_entry_list.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-debug-42:/layout_activity_add_edit_entry.xml.flat",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_add_edit_entry.xml"
+    }
+]

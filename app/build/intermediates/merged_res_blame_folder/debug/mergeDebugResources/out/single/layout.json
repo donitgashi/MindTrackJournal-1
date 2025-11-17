@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.mindtrack.app-mergeDebugResources-41:/layout/activity_entry_list.xml",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_entry_list.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-mergeDebugResources-41:/layout/item_entry.xml",
+        "source": "com.example.mindtrack.app-main-44:/layout/item_entry.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-mergeDebugResources-41:/layout/activity_add_edit_entry.xml",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_add_edit_entry.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-mergeDebugResources-41:/layout/view_empty_state.xml",
+        "source": "com.example.mindtrack.app-main-44:/layout/view_empty_state.xml"
+    },
+    {
+        "merged": "com.example.mindtrack.app-mergeDebugResources-41:/layout/activity_entry_detail.xml",
+        "source": "com.example.mindtrack.app-main-44:/layout/activity_entry_detail.xml"
+    }
+]
