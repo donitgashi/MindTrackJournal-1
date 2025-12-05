@@ -1,4 +1,4 @@
-# MindTrack Journal — Android (with CI + Robolectric)
+# MindTrack Journal — Android
 
 - Multi-activity (List, Detail, Add/Edit)
 - Room 2.8.0 + Flow + Coroutines
